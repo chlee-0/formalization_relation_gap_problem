@@ -1,0 +1,5 @@
+/.lake/
+/.loop/
+/.build/
+*.olean
+*.ilean
